@@ -265,8 +265,8 @@ legend {
     color: var(--dark-color);
     text-align: center;
     border: 1px solid var(--dark-color);
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
     margin-bottom: 2rem;
 }
 .cta h2 {
